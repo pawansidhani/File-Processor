@@ -33,7 +33,7 @@ public class FileProcessor {
 	}
 	/*
 	 * This is the method to process file based on name provided
-	 * @param String path is the full path of file
+	 * @param String path is the full path of file with file name
 	 */
 	void processFiles(String path) {
 		//System.out.println("Complete path: "+path);
